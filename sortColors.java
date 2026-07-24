@@ -14,5 +14,5 @@ public void sortColors(int[] nums) {
             nums[high--] = tmp;
         }
     }
-}
+    }
 }
