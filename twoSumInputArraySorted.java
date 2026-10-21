@@ -16,8 +16,6 @@ i and j pointers one at start and one at end
 */
 
 
-
-
 class Solution {
     public int[] twoSum(int[] num, int target) {
         int i=0;
