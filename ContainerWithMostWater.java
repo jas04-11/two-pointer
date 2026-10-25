@@ -10,6 +10,7 @@ Output: 1
  
 */
 
+
 import java.util.*;
 class Solution {
     public int maxArea(int[] height) {
